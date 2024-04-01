@@ -1,0 +1,5 @@
+__pycache__
+analysis/~
+analysis/diffuser
+analysis/*.log
+cache
